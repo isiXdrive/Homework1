@@ -1,0 +1,6 @@
+C:\Users\Kamran\source\repos\Mothods\Mothods\bin\Debug\Mothods.exe.config
+C:\Users\Kamran\source\repos\Mothods\Mothods\bin\Debug\Mothods.exe
+C:\Users\Kamran\source\repos\Mothods\Mothods\bin\Debug\Mothods.pdb
+C:\Users\Kamran\source\repos\Mothods\Mothods\obj\Debug\Mothods.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\Mothods\Mothods\obj\Debug\Mothods.exe
+C:\Users\Kamran\source\repos\Mothods\Mothods\obj\Debug\Mothods.pdb
